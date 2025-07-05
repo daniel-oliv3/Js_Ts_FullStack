@@ -88,9 +88,10 @@ Tenha em mente que é melhor ter o costume de salvar do que deixar que o editor 
 
 
 
+### 4 - Entenda como o curso está estruturado
 
-
-
+- Exemplo:
+  - app_04
 
 
 
