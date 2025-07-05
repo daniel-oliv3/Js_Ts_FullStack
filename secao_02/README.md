@@ -35,9 +35,10 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_09
 
 
+### 10 - Help
 
-
-
+- Exemplo:
+  - app_10
 
 
 
