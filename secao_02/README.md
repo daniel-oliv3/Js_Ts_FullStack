@@ -11,7 +11,10 @@
 - Exemplo:
   - app_07
 
+### 7 - Exercícios
 
+- Exemplo:
+  - app_08
 
 
 
