@@ -99,3 +99,9 @@ Tenha em mente que é melhor ter o costume de salvar do que deixar que o editor 
 
 - Exemplo:
   - app_05
+
+
+### 6 - Seção de HTML e CSS (Novo)
+
+- Exemplo:
+  - app_06
