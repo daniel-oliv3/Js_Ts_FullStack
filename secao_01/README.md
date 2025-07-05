@@ -7,11 +7,23 @@
 - Visual Studio Code
   - Link: https://code.visualstudio.com/Download
 
+Extensões
+    - `Code Runner`
+
+Executar o arquivo app_01.js
+
+```txt
+CRTL + ALT + N
+
+node app_01.js
+```
+
 - NodeJS
   - Link: https://nodejs.org/en
 
 - Google Chrome
     - Link: https://www.google.com/intl/pt-BR/chrome/
 
+
 - Exemplo:
-  - script_01
+  - app_01
