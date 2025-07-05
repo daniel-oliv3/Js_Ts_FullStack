@@ -41,7 +41,21 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_10
 
 
+### 11 - Comentários no código
 
+```js
+// Comentário de uma unica linha
+
+
+/* 
+    Comentários de multiplas linhas
+    console.log("Olá Mundo!");
+    Texto/Código
+*/
+```
+
+- Exemplo:
+  - app_11
 
 
 
