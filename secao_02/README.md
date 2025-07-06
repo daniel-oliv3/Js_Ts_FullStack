@@ -58,7 +58,10 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_11
 
 
+### 12 - Navegador vs Node (HTML + JavaScript)
 
+- Exemplo:
+  - app_12
 
 
 
