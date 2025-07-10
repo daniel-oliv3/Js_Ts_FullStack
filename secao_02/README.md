@@ -64,7 +64,10 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_12
 
 
+### 13 - Variáveis com let
 
+- Exemplo:
+  - app_13
 
 
 
