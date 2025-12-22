@@ -35,13 +35,13 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_09
 
 
-### 10 - Help
+### 10 - Comentários no código
 
 - Exemplo:
   - app_10
 
 
-### 11 - Comentários no código
+### 11 - Navegador vs Node (HTML + JavaScript)
 
 ```js
 // Comentário de uma unica linha
@@ -58,18 +58,34 @@ Em algumas seções específicas, existem repositórios separados. Como as seç�
   - app_11
 
 
-### 12 - Navegador vs Node (HTML + JavaScript)
+### 12 - Variáveis com let
 
 - Exemplo:
   - app_12
 
 
-### 13 - Variáveis com let
+### 13 - Preciso da sua ajuda
 
 - Exemplo:
   - app_13
 
 
+### 14 - Constantes com const
 
+```js
+/*
+Não podemos criar constantes com palavras reservadas
+constantes presizam ter nomes significativos
+Não pode começar o nome de uma constantes com um número
+Não pode conter espaços e traços
+Utilizamos camelCase
+case-sensitive
+Não podemos modificar o valor de constante
+Não utilizar var, utlizar let sempre
+*/
+```
+
+- Exemplo:
+  - app_14
 
 
