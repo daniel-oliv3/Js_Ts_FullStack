@@ -88,33 +88,47 @@ Não utilizar var, utlizar let sempre
 - Exemplo:
   - app_14
 
-
-
 ### 15 - Correção
-
-No exercício a seguir, você verá uma constante chamada de "altura" e depois modificada para "alturaEmCm", mais precisamente no seguinte trecho de código:
-
-```js
-const nome = 'Luiz Otávio';
-const sobrenome = 'Miranda';
-const idade = 30;
-const peso = 84;
-const alturaEmCm = 1.80; // <-- NESTE LOCAL
-```
-
-Na verdade, este valor (1.80) está em metros, portanto, o nome da variável deveria ser "alturaEmM".
-
-Só vi isso na edição da aula, peço desculpas pelo erro.
-
-O código corrigido estará disponível após a aula.
 
 - Exemplo:
   - app_15
 
+### 16 - Exercícios - Const e Let
+
+- Exemplo:
+  - app_16
 
 
+### 17 - Código do exercício solucionado
 
+- Abaixo o código completo do exercício anterior.
 
+```js
+/*
+Luiz Otávio Miranda tem 30 anos, pesa 84 kg
+tem 1.8 de altura e seu IMC é de 25.925925925925924
+Luiz Otávio nasceu em 1980
+*/
+const nome = 'Luiz Otávio';
+const sobrenome = 'Miranda';
+const idade = 30;
+const peso = 84;
+const alturaEmM = 1.80; // Corrigido para metros (ao invés de cm)
+let indiceMassaCorporal; // peso / (altura * altura)
+let anoNascimento;
+ 
+indiceMassaCorporal = peso / (alturaEmM * alturaEmM);
+anoNascimento = 2019 - idade;
+ 
+// template strings
+ 
+console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} kg`);
+console.log(`tem ${alturaEmM} de altura e seu IMC é de ${indiceMassaCorporal}`);
+console.log(`${nome} nasceu em ${anoNascimento}.`);
+```
+
+- Exemplo:
+  - app_17
 
 
 
