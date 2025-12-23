@@ -131,9 +131,10 @@ console.log(`${nome} nasceu em ${anoNascimento}.`);
   - app_17
 
 
+### 18 - Let vs Var - Primeira diferença
 
-
-
+- Exemplo:
+  - app_18
 
 
 
