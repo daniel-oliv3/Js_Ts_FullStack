@@ -138,4 +138,7 @@ console.log(`${nome} nasceu em ${anoNascimento}.`);
 
 
 
+### 19 - Tipos de dados primitivos
 
+- Exemplo:
+  - app_19
