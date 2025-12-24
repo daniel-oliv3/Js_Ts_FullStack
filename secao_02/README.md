@@ -142,3 +142,10 @@ console.log(`${nome} nasceu em ${anoNascimento}.`);
 
 - Exemplo:
   - app_19
+
+
+
+### 20 - Operadores aritméticos, de atribuição e incremento
+
+- Exemplo:
+  - app_20
