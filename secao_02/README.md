@@ -149,3 +149,13 @@ console.log(`${nome} nasceu em ${anoNascimento}.`);
 
 - Exemplo:
   - app_20
+
+
+
+
+### 21 - alert, confirm e prompt (Navegador)
+
+- Exemplo:
+  - app_21
+
+
