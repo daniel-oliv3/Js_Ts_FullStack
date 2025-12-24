@@ -198,3 +198,18 @@ console.log(varA, varB, varC);
   - app_23
 
 
+
+
+### 24 - Mais sobre strings
+
+**JavaScript Tutorial**
+
+- Links
+  - https://www.w3schools.com/Js/
+  - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+  - https://ecma-international.org/publications-and-standards/standards/ecma-262/
+
+- Exemplo:
+  - app_24
+
+
