@@ -159,3 +159,20 @@ console.log(`${nome} nasceu em ${anoNascimento}.`);
   - app_21
 
 
+### 22 - Exercícios - Solução
+
+```js
+// Exercícios - Solução
+
+let num1 = prompt('Digite o primeiro número');
+let num2 = prompt('Digite o segundo número');
+
+num1 = Number(num1); 
+num2 = Number(num2);
+
+alert(`O resultado da multiplicação é: ${num1 + num2}`);
+
+```
+
+- Exemplo:
+  - app_22
