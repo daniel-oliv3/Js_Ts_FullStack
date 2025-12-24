@@ -176,3 +176,25 @@ alert(`O resultado da multiplicação é: ${num1 + num2}`);
 
 - Exemplo:
   - app_22
+
+
+
+### 23 - Exercício com variáveis
+
+```js
+// Exercício com variáveis
+
+let varA = 'A'; //b
+let varB = 'B'; //c
+let varC = 'C'; //a
+let varAux;
+
+[varA, varB, varC] = [varB, varC, varA];
+
+console.log(varA, varB, varC);
+```
+
+- Exemplo:
+  - app_23
+
+
