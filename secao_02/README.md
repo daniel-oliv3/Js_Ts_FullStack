@@ -270,5 +270,12 @@ texto.innerHTML += `<p>Com duas casas decimais: <strong>${numero.toFixed(2)}</st
 ```
 
 - Exemplo:
-  - app_27
+  - app_28
 
+
+
+
+### 29 - Arrays (Básico)
+
+- Exemplo:
+  - app_29
