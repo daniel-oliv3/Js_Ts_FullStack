@@ -240,7 +240,8 @@ document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLo
 - Exemplo:
   - app_26
 
+### 27 - Objeto Math
 
-
-
+- Exemplo:
+  - app_27
 
