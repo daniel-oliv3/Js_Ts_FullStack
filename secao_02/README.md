@@ -187,7 +187,6 @@ alert(`O resultado da multiplicação é: ${num1 + num2}`);
 let varA = 'A'; //b
 let varB = 'B'; //c
 let varC = 'C'; //a
-let varAux;
 
 [varA, varB, varC] = [varB, varC, varA];
 
@@ -211,5 +210,26 @@ console.log(varA, varB, varC);
 
 - Exemplo:
   - app_24
+
+
+### 25 - Exercícios com strings
+
+```js
+//Exercícios 3
+
+const nome = prompt("Digite o seu nome:");;
+document.body.innerHTML += `Seu nome é ${nome}<br/>`;
+document.body.innerHTML += `Seu nome tem <strong>${nome.length}</strong> letras <br/>`;
+document.body.innerHTML += `A segunda letra do seu nome é: <strong>${nome[1]}</strong><br/>`;
+document.body.innerHTML += `Qual o primeiro índice da letra a no seu nome <strong>${nome.indexOf('a')}</strong><br/>`;
+document.body.innerHTML += `Qual o último índice da letra a no seu nome <strong>${nome.lastIndexOf('a')}</strong><br/>`;
+document.body.innerHTML += `As últimas 3 letras do seu nome são: <strong>${nome.slice(-3)}</strong><br/>`;
+document.body.innerHTML += `As palavras do seu nome são: <strong>${nome.split(' ')}</strong><br/>`;
+document.body.innerHTML += `Seu nome com letras maiúsculas: <strong>${nome.toUpperCase()}</strong><br/>`;
+document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLocaleLowerCase()}</strong><br/>`;
+```
+
+- Exemplo:
+  - app_25
 
 
