@@ -242,6 +242,33 @@ document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLo
 
 ### 27 - Objeto Math
 
+- Exercícios 5
+
+- Exemplo:
+  - app_27
+
+### 28 - Exercícios com numbers e Math
+
+- Exercícios 6
+
+```js
+//Exercícios 6
+//Exercícios com numbers e Math
+const numero = Number(prompt("Digite um número:"));
+
+const numeroTitulo = document.getElementById('numero-titulo');
+const texto = document.getElementById('texto');
+
+numeroTitulo.innerHTML = numero;
+texto.innerHTML = '';
+texto.innerHTML += `<p>Raiz quadrada é: <strong>${numero ** 0.5}</strong></p>`;
+texto.innerHTML += `<p>${numero} é inteiro: <strong>${Number.isInteger(numero)}</strong></p>`;
+texto.innerHTML += `<p>É NaN: <strong>${Number.isNaN(numero)}</strong></p>`;
+texto.innerHTML += `<p>Arrendondamento para baixo: <strong>${Math.floor(numero)}</strong></p>`;
+texto.innerHTML += `<p>Arrendondamento para cima: <strong>${Math.ceil(numero)}</strong></p>`;
+texto.innerHTML += `<p>Com duas casas decimais: <strong>${numero.toFixed(2)}</strong></p>`;
+```
+
 - Exemplo:
   - app_27
 
