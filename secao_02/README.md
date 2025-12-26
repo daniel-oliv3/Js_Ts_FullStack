@@ -233,3 +233,14 @@ document.body.innerHTML += `Seu nome com letras minúsculas: <strong>${nome.toLo
   - app_25
 
 
+
+
+### 26 - Um pouco mais sobre os numbers em JavaScript
+
+- Exemplo:
+  - app_26
+
+
+
+
+
