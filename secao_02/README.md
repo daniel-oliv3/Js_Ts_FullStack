@@ -301,3 +301,33 @@ Já valores são os dados que realmente ficam salvos na memória e sustentam det
 
 - Exemplo:
   - app_30
+
+
+
+
+### 31 - Funções em JavaScript - Uma introdução ao básico
+
+```js
+//Exemplo de Função (Soma)
+function soma(x, y){
+    const resultado = x + y;
+    return resultado;
+}
+
+console.log(soma(2, 2)); //4
+```
+
+
+```js
+//Exemplo de Função Arrow Function (Subtração)
+const subtracao = (x, y) => {
+    const resu = x - y;
+    return resu;
+};
+
+console.log(subtracao(5, 3)); //2
+```
+
+- Exemplo:
+  - app_31
+
