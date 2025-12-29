@@ -331,3 +331,28 @@ console.log(subtracao(5, 3)); //2
 - Exemplo:
   - app_31
 
+
+### 32 - Objetos (Básico)
+
+```js
+//Exemplo de Objeto
+const pessoa1 = {
+    nome: 'Daniel',
+    sobrenome: 'Oliveira',
+    idade: 30
+};
+
+console.log(pessoa1.nome);
+console.log(pessoa1.sobrenome);
+```
+
+- Exemplo:
+  - app_32
+
+
+
+
+
+
+
+
