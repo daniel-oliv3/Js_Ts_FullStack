@@ -2,6 +2,7 @@
 ### Seção 2: JavaScript Básico - Para Iniciantes
 ##
 
+
 <p align="center">
   <img alt="...." src="./src/js.png" width="50%">
 </p>
