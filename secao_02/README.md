@@ -359,7 +359,7 @@ console.log(pessoa1.sobrenome);
 ### 34 - Exercício para função, array e objetos
 
 ```js
-//Exerciocio
+//Exercício
 function meuEscopo(){
     const form = document.querySelector('.form');
     const resultado = document.querySelector('.resultado');
