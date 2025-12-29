@@ -350,7 +350,10 @@ console.log(pessoa1.sobrenome);
   - app_32
 
 
+### 33 - Valores primitivos e valores por referência
 
+- Exemplo:
+  - app_33
 
 
 
