@@ -45,3 +45,13 @@
 - Exemplo:
   - app_37
 
+
+### 38 - Operadores Lógicos
+
+- **Operadores Lógicos**
+  - `&&` -> `AND` -> `E`
+  - `||` -> `OR` -> `OU`
+  - `!` -> `NOT` -> `NÃO`
+
+- Exemplo:
+  - app_38
