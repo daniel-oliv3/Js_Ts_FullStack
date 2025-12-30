@@ -30,3 +30,8 @@
   - app_36
 
 
+### 37 - Operadores de comparação
+
+- Exemplo:
+  - app_37
+
