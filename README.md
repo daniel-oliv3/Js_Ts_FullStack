@@ -12,7 +12,7 @@
 
 ### Seção 2: JavaScript Básico - Para Iniciantes
 
-
+### Seção 3: JavaScript - Lógica de Programação
 
 
 
