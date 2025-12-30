@@ -7,10 +7,26 @@
 </p>
 
 
-### Seção 3: JavaScript - Lógica de Programação
+### 35 - Sobre lógica
+
+- Exemplo:
+  - app_35
 
 
+### 36 - Extensões que utilizo no VSCode
 
+- Extensões
+  - Code Runner
+  - Code Time
+  - Django
+  - EJS language support
+  - Git Graph
+  - Python
+  - StandardJS JavaScript Standard Style
+  - Dracula official
+  - Material icon theme
 
+- Exemplo:
+  - app_36
 
 
