@@ -85,7 +85,7 @@
 - Fonts
   - Site: https://fonts.google.com/specimen/Open+Sans
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400,700&display=swap');
+`@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400,700&display=swap');`
 
 - Exemplo:
   - app_42
