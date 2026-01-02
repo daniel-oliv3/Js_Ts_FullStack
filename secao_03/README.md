@@ -90,3 +90,15 @@
 - Exemplo:
   - app_42
 
+### 43 - Nota sobre o próximo exercício
+
+Nota sobre o próximo exercício
+A próxima aula será um exercício onde vamos aplicar todo o conhecimento aprendido até aqui, porém, pode ser um tanto intimidador para iniciantes unir todo o conhecimento em uma única aula.
+
+Se você se sentir preso(a) em algum momento ao realizar o exercício, minha sugestão é que você siga digitando comigo enquanto crio a minha solução.
+
+Ainda temos muitas aulas para fixar muito mais todo o seu conhecimento.
+
+
+- Exemplo:
+  - app_43
