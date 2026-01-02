@@ -77,4 +77,16 @@
   - app_41
 
 
+### 42 - Modelo HTML e CSS para exercícios posteriores
+
+- Gerador de textos Aleatórios
+  - Site: https://mussumipsum.com/
+
+- Fonts
+  - Site: https://fonts.google.com/specimen/Open+Sans
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400,700&display=swap');
+
+- Exemplo:
+  - app_42
 
