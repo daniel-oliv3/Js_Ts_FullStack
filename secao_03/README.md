@@ -55,3 +55,16 @@
 
 - Exemplo:
   - app_38
+
+
+
+### 39 - Avaliação de Curto-Circuito (Short-Circuit)
+
+- Exemplo:
+  - app_39
+
+
+
+
+
+
