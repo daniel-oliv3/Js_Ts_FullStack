@@ -293,3 +293,19 @@ function setResultado(msg, isValid) {
 
 - Exemplo:
   - app_44
+
+
+
+
+### 45 - Operação ternária
+
+- Terminal do vscode
+  - `node main.js`
+
+- Exemplo:
+  - app_44
+
+
+
+
+  
