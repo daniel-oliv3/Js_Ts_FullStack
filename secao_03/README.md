@@ -305,7 +305,13 @@ function setResultado(msg, isValid) {
 - Exemplo:
   - app_44
 
+### 46 - Objeto Date
 
+- MDN Object Date
+  - Site: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+- Exemplo:
+  - app_46
 
 
   
