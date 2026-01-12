@@ -107,6 +107,8 @@ Ainda temos muitas aulas para fixar muito mais todo o seu conhecimento.
 
 ### 44 - Exercício (unindo tudo aprendido até aqui e mais)
 
+- HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -142,6 +144,8 @@ Ainda temos muitas aulas para fixar muito mais todo o seu conhecimento.
     03/01/2026
 -->
 ```
+
+- CSS
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400,700&display=swap');
@@ -214,6 +218,8 @@ form button:hover {
     background: rgb(214, 29, 29);
 }
 ```
+
+- JavaScript
 
 ```js
 /*1 - captura evento de submit do formulario*/
@@ -314,4 +320,9 @@ function setResultado(msg, isValid) {
   - app_46
 
 
+
+### 47 - Switch/Case
+
+- Exemplo:
+  - app_47
   
