@@ -326,3 +326,13 @@ function setResultado(msg, isValid) {
 - Exemplo:
   - app_47
   
+
+### 48 - Exercício com switch e date
+
+- Musssum Ipsum
+  - Site: https://mussumipsum.com/
+
+- Exemplo:
+  - app_48
+
+
