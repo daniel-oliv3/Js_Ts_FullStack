@@ -349,3 +349,17 @@ h1.innerHTML = data.toLocaleString('pt-BR', { dateStyle: 'full', timeStyle: 'sho
 - Exemplo:
   - app_49
 
+
+### 50 - Atribuição via desestruturação (Arrays)
+
+- Exemplo:
+  - app_50
+
+
+
+
+
+
+
+
+
