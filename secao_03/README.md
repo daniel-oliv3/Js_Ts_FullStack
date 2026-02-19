@@ -332,7 +332,20 @@ function setResultado(msg, isValid) {
 - Musssum Ipsum
   - Site: https://mussumipsum.com/
 
+```js
+//Ex03 the best
+const h1 = document.querySelector('.container h1');
+const data = new Date();
+h1.innerHTML = data.toLocaleString('pt-BR', { dateStyle: 'full', timeStyle: 'short'});
+```
+
+
 - Exemplo:
   - app_48
 
+
+### 49 - Mais diferenças entre var e let/const
+
+- Exemplo:
+  - app_49
 
