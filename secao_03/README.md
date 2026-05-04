@@ -355,7 +355,26 @@ h1.innerHTML = data.toLocaleString('pt-BR', { dateStyle: 'full', timeStyle: 'sho
 - Exemplo:
   - app_50
 
+### 51 - Atribuição via desestruturação (Objetos)
 
+
+```js
+const pessoa = {
+    nome: 'Daniel',
+    sobrenome: 'Oliveira',
+    idade: 30,
+    endereco: {
+        rua: 'Angra dos Reis',
+        numero: 31
+    }
+};
+
+const { nome, sobrenome, idade } = pessoa; //Atribuição via desestruturaçã
+console.log(nome, sobrenome, idade);
+```
+
+- Exemplo:
+  - app_51
 
 
 
