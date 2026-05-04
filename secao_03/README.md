@@ -380,5 +380,67 @@ console.log(nome, sobrenome, idade);
 
 
 
+### 52 - For - Clássico - Estrutura de repetição
 
+```js
+//Ex02
+for(let i = 0; i <= 5; i++){
+    console.log('Linha ', i);
+}
+```
 
+```js
+//Ex03
+for(let i = 0; i <= 5; i++){
+    console.log(`Linha ${i}`);
+}
+```
+
+```js
+//Ex04
+for(let i = 400; i <= 500; i++){
+    console.log(`Linha ${i}`);
+}
+```
+
+```js
+//Ex05
+for(let i = 400; i <= 500; i += 10){
+    console.log(`Linha ${i}`);
+}
+```
+
+```js
+//Ex06
+for(let i = 500; i >= 400; i-= 10){
+    console.log(`Linha ${i}`);
+}
+```
+
+```js
+//Ex07
+for(let i = 0; i <= 10; i++){
+    const par = i % 2 === 0;
+    console.log(i, par);
+}
+```
+
+```js
+//Ex08
+for(let i = 0; i <= 10; i++){
+    const par = i % 2 === 0 ? 'par' : 'impar';
+    console.log(i, par);
+}
+```
+
+```js
+//Ex09
+const frutas = ['Maçã', 'Pêra', 'Uva'];
+
+for(let i = 0; i < frutas.length; i++){
+    console.log(`Indice ${i}`, frutas[i]);
+}
+```
+
+- Exemplo:
+  - app_52
