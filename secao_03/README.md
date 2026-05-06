@@ -452,6 +452,28 @@ for(let i = 0; i < frutas.length; i++){
 ### 53 - Exercícios com for
 
 
+- HTML
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM e a árvore do DOM</title>
+    <link rel="shortcut icon" href="./src/img/favicon96.png" />
+    <link rel="stylesheet" href="./src/css/style.css" />
+  </head>
+  <body>
+
+    <section class="container">
+      <h1>Mussum Ipsum, cacilds vidis litro abertis</h1>
+    
+    </section>
+
+    <script src="./src/js/main.js"></script>
+  </body>
+</html>
+```
 
 - JS
 ```js
@@ -479,7 +501,17 @@ container.appendChild(div);
 
 
 - Exemplo:
-  - app_52
+  - app_53
+
+
+### 54 - DOM e a árvore do DOM
+
+- Modelo de Objeto de Documento (DOM)
+  - Link: https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
+
+- Exemplo:
+  - app_54
+
 
 
 
