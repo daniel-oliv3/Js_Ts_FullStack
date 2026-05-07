@@ -467,7 +467,7 @@ for(let i = 0; i < frutas.length; i++){
 
     <section class="container">
       <h1>Mussum Ipsum, cacilds vidis litro abertis</h1>
-    
+        <!-- AQUI -->
     </section>
 
     <script src="./src/js/main.js"></script>
@@ -513,7 +513,8 @@ container.appendChild(div);
   - app_54
 
 
+### 55 - For in - Estrutura de repetição
 
 
-
-
+- Exemplo:
+  - app_55
