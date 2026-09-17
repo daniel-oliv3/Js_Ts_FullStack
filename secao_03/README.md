@@ -526,5 +526,19 @@ container.appendChild(div);
 
 
 - Exemplo:
-  - app_55
+  - app_56
+
+
+
+
+### 57 - Exercícios com NodeList (Browser)
+
+
+- Gerador de textos aleatorios.
+  - Lorem Ipsum: https://www.lipsum.com/
+  - Mussum Ipsum: https://mussumipsum.com/
+
+- Exemplo:
+  - app_57
+
 
