@@ -542,3 +542,14 @@ container.appendChild(div);
   - app_57
 
 
+
+### 58 - While e Do While - Estrutura de repetição
+
+- Exemplo:
+  - app_58
+
+
+
+
+
+
