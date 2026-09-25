@@ -556,3 +556,9 @@ container.appendChild(div);
 
 
 
+
+### 60 - Exercício com lógica de programação - 01
+
+- Exemplo:
+  - app_60
+
