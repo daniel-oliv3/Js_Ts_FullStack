@@ -567,3 +567,10 @@ container.appendChild(div);
 
 - Exemplo:
   - app_61
+
+
+
+### 62 - Exercício com lógica de programação - 03
+
+- Exemplo:
+  - app_62
