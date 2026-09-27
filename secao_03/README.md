@@ -598,3 +598,13 @@ try{
 
 - Exemplo:
   - app_64
+
+
+### 65 - setInterval e setTimeout
+
+- Exemplo:
+  - app_65
+
+
+
+

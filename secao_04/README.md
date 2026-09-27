@@ -3,7 +3,7 @@
 ##
 
 <p align="center">
-  <img alt="...." src="./src/js-ts.jpg" width="50%">
+  <img alt="...." src="./src/js.png" width="50%">
 </p>
 
 ### Seção 4: JavaScript Funções (Avançado)
