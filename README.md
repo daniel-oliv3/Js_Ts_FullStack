@@ -14,7 +14,7 @@
 
 ### Seção 3: JavaScript - Lógica de Programação
 
-
+### Seção 4: JavaScript Funções (Avançado)
 
 
 
