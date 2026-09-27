@@ -581,3 +581,20 @@ container.appendChild(div);
 
 - Exemplo:
   - app_63
+
+
+### 64 - Tratando e lançando erros (try, catch, finally)
+
+
+```js
+try{
+  //E executado quando não ha erros
+}catch(e){
+  //E executado quando ha erros
+}finally{
+  //Sempre
+}
+```
+
+- Exemplo:
+  - app_64
