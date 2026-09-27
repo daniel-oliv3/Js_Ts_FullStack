@@ -574,3 +574,10 @@ container.appendChild(div);
 
 - Exemplo:
   - app_62
+
+
+
+### 63 - Tratando e lançando erros (try, catch, throw)
+
+- Exemplo:
+  - app_63
