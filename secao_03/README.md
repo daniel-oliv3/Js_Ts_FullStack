@@ -606,5 +606,17 @@ try{
   - app_65
 
 
+### 66 - Exercício - Criando um timer com setInterval
+
+- Exemplo:
+  - app_66
+
+
+### 67 - Criando uma Lista de tarefas
+
+- Exemplo:
+  - app_67
+
+
 
 
