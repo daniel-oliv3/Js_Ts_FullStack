@@ -10,6 +10,7 @@
 
 
 
+### 68 - As várias maneiras de declarar funções em JavaScript
 
-
-
+- Exemplo:
+  - app_68
